@@ -58,3 +58,8 @@ a:active {
   width: 100%;
   background-size: contain;
 }
+
+body{
+    overflow-x:hidden;
+}
+
